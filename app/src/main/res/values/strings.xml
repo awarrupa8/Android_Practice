@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD_Practicle</string>
+    <string name="cal_activity">MY Calculator</string>
+    <string name="my_splash">My Splash Screen</string>
+</resources>
